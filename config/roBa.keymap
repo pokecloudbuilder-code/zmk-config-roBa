@@ -53,6 +53,12 @@
             bindings = <&kp EQUAL>;
             key-positions = <24 25>;
         };
+
+        click_with_j {
+            bindings = <&mkp MB1>;
+            key-positions = <39 17>;
+            layers = <0>;
+        };
     };
 
     macros {
