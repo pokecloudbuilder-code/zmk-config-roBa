@@ -53,6 +53,16 @@
             bindings = <&kp EQUAL>;
             key-positions = <24 25>;
         };
+
+        mouse_combo1 {
+            bindings = <&mo 4>;
+            key-positions = <34 35>;
+        };
+
+        mouse_combo2 {
+            bindings = <&mo 4>;
+            key-positions = <36 37>;
+        };
     };
 
     macros {
